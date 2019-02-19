@@ -1,2 +1,3 @@
 test - in newbranch
 test - in newbranch line2
+test - in local/newbranch line3
